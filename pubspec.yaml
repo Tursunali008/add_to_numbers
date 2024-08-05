@@ -1,5 +1,5 @@
 name: add_to_numbers
-description: add_to_numbers is a Dart library designed as a starting point for building Dart libraries or applications. With version 1.0.0, this package provides a foundational structure that you can build upon for your own Dart projects. It comes with essential development dependencies such as lints for code quality checks and test for unit testing. The package is compatible with Dart SDK version ^3.4.4 and is licensed under the MIT License. For more information and to access the source code, visit the GitHub repository.
+description: add_to_numbers is a Dart library designed as a starting point for building Dart libraries or applications. With version 1.0.0, this package provides a foundational structure that you can build upon for your own Dart projects. It comes with essential development dependencies such as lints for code quality checks and test for unit testing. The package is compatible with Dart SDK version ^3.4.4 and is licensed under the MIT License.
 version: 1.0.0
 repository: https://github.com/Tursunali008/add_to_numbers
 

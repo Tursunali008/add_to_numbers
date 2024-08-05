@@ -1,39 +1,17 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# add_to_numbers
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+add_to_numbers is a Dart library designed as a starting point for building Dart libraries or applications. With version 1.0.0, this package provides a foundational structure that you can build upon for your own Dart projects. It includes essential development dependencies such as `lints` for code quality checks and `test` for unit testing. The package is compatible with Dart SDK version ^3.4.4 and is licensed under the MIT License.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- **Foundational Structure**: Provides a base for Dart library or application development.
+- **Code Quality**: Includes linting for maintaining code standards.
+- **Testing**: Comes with unit testing setup for validating your code.
 
-## Getting started
+## Getting Started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+To get started with `add_to_numbers`, add it to your `pubspec.yaml` file:
 
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+```yaml
+dependencies:
+  add_to_numbers: ^1.0.0
