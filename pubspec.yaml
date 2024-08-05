@@ -1,7 +1,7 @@
 name: add_to_numbers
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/Tursunali008/add_to_numbers
 
 environment:
   sdk: ^3.4.4
